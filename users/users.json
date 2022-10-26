@@ -1,0 +1,52 @@
+[
+    {
+        "id": 5,
+        "name": "Андрей Смирнов",
+        "username": "Эндрю",
+        "email": "andrew@gmail.com",
+        "phone": "45321856323",
+        "website": "andy.info",
+        "extension": "jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ольга Васильева",
+        "username": "Olga",
+        "email": "Karley_Dach@jasper.info",
+        "phone": "1078412367",
+        "website": "ola.org",
+        "extension": "jpg"
+    },
+    {
+        "id": 7,
+        "name": "Констатин Максимов",
+        "username": "Kos",
+        "email": "kos@gmail.com",
+        "phone": "12312312312312",
+        "website": "kostya.io"
+    },
+    {
+        "id": 8,
+        "name": "Василий Теркин",
+        "username": "Vas",
+        "email": "vasd123@gmail.com",
+        "phone": "2342342",
+        "website": "vasya.com"
+    },
+    {
+        "id": 9,
+        "name": "Анна Каренина",
+        "username": "Roman",
+        "email": "anna@gmail.com",
+        "phone": "4526546345634563456",
+        "website": "ann.com"
+    },
+    {
+        "id": 10,
+        "name": "Мария Пронина",
+        "username": "Moriah",
+        "email": "mary@kmail.ru",
+        "phone": "02423483804",
+        "website": "mary.io"
+    }
+]
